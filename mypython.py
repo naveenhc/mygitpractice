@@ -1,3 +1,5 @@
+data types in Python
+
 list = [NAVEEN, VENU, PRAKASH]
 print(list)
 
